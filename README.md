@@ -1,3 +1,6 @@
 # IBM-Project-35469-1660284997
-Customer Care Registry
-you can delete this file
+
+you can delete this file,
+this is only for enabling reading capacity of our project by anyone in github,
+by swetha 
+
